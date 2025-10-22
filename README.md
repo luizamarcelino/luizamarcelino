@@ -4,8 +4,8 @@
 
 ---
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizamarcelino&show_icons=true&theme=tokyonight&count_private=true&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamarcelino&layout=compact&theme=tokyonight&title_color=bd93f9&text_color=f8f8f2&bg_color=0d1117" alt="Top Languages"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizamarcelino&show_icons=true&theme=tokyonight&count_private=true&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&bg_color=0d1117" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizamarcelino&layout=compact&theme=tokyonight&title_color=bd93f9&text_color=f8f8f2&bg_color=0d1117" alt="Top Languages"/>
 </p>
 
 #### Linguagens:
