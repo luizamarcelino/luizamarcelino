@@ -6,7 +6,7 @@ My name is Luiza Marcelino, i'm 20 years old and i'm from Rio Grande do Norte, B
 
 ---
 
-### 🤖 Languages (always in process)
+### 🤖 Languages  & Tools (always in process)
 <img 
     align="left" 
     alt="Git" 
