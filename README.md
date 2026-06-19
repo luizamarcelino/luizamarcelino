@@ -1,8 +1,6 @@
 # 👩🏻‍💻 Luiza Marcelino
 
-**`future data scientist`**
-
-My name is Luiza Marcelino, i'm 20 years old and i'm from Rio Grande do Norte, Brazil. I graduated from high school at IFPB, with an integrated technical course. Currently, i'm studying Information Technology at UFERSA and planning to specialize in ​data science..
+My name is Luiza Marcelino, i'm 20 years old and i'm from Rio Grande do Norte, Brazil. I graduated from high school at IFPB, with an integrated technical course. Currently, i'm studying Information Technology at UFERSA.
 
 ---
 
